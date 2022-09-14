@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6282221792667', 'TioXd', true]
+  ['6289606790112', 'TioXd', true]
 // [owner bukan bot!]
 ] // paste nomor di sini
 global.mods = ['6272221792667'] // bantuan?
@@ -20,8 +20,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Wm untuk stiker
-global.tio = 'TioXd' // ini adalah autobio 
-global.packname = '© BOTCAHX'
+global.tio = 'EzaBot-MD' // ini adalah autobio 
+global.packname = '© RezaOfc'
 global.author = 'Botwa'
 
 global.multiplier = 70 // Semakin Tinggi levelmu semakin naik
